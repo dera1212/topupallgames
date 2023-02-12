@@ -1,6 +1,5 @@
 <?php
 
-use App\Http\Controllers\HeaderController;
 use App\Http\Controllers\LandingpageController;
 use App\Http\Controllers\LayananController;
 use App\Http\Controllers\OrderController;
@@ -27,4 +26,4 @@ Route::get('/layanan', [LayananController::class, 'index']);
 
 Route::get('/order', [OrderController::class, 'index']);
 
-Route::get('/header', [HeaderController::class, 'index']);
+Route::get('/order/mobile-legeds-diamond', [OrderController::class, 'mobilelegends']);

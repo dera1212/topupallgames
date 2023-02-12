@@ -10,4 +10,9 @@ class OrderController extends Controller
     {
         return view("order.index");
     }
+
+    public function mobilelegends()
+    {
+        return view("order.mobilelegends");
+    }
 }
