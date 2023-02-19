@@ -1,7 +1,10 @@
 
+
+/* ==============================================================================================  */
+
 .container-order{
     width: 100%;
-    height: 130vh;
+    height: 230vh;
 }
 
 .order-col1{
@@ -53,7 +56,7 @@
     width: 57%;
     margin-top: 20vh;
     margin-left: 3%;
-    height: 100vh;
+    height: 200vh;
     float: left;
     background-color: rgba(0, 0, 0, 0.32);
     box-shadow: 1px 1px 15px black;
@@ -143,12 +146,13 @@
     overflow: hidden;
 }
 
+
 .pilih-jumlah-diamond label{
     display: inline-block;
     width: 100%;
     height: 12vh;
     background-color: goldenrod;
-    color: rgba(255, 255, 255, 0.8);
+    color: rgb(255, 255, 255);
     font-size: 14px;
     font-weight: normal;
     text-align: center;
@@ -204,7 +208,7 @@
 @media screen and (max-width: 768px) {
     .container-order{
         width: 100%;
-        height: 180vh;
+        height: 230vh;
     }
     
     .order-col1{
@@ -256,7 +260,7 @@
         width: 57%;
         margin-top: 20vh;
         margin-left: 3%;
-        height: 130vh;
+        height: 200vh;
         float: left;
         background-color: rgba(0, 0, 0, 0.32);
         box-shadow: 1px 1px 15px black;
@@ -336,7 +340,7 @@
 
     .container-order{
         width: 100%;
-        height: 170vh;
+        height: 250vh;
     }
     
     .order-col1{
@@ -388,7 +392,7 @@
         width: 90%;
         margin-top: 5vh;
         margin-left: 5%;
-        height: 80vh;
+        height: 160vh;
         float: left;
         background-color: rgba(0, 0, 0, 0.32);
         box-shadow: 1px 1px 15px black;

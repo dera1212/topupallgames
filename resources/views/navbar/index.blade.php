@@ -2,7 +2,7 @@
 
     <nav class="navbar navbar-expand-lg bg-dark navbar-custom" data-bs-theme="dark">
       <div class="container-fluid">
-        <a class="navbar-brand fs-2 text ms-3" href="#">Ateng Store</a>
+        <a class="navbar-brand fs-2 text ms-3" href="{{url('/')}}">Ateng Store</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -10,7 +10,7 @@
         <div class="collapse navbar-collapse flex-row-reverse" id="navbarSupportedContent">
           <ul class="navbar-nav mb-2 mb-lg-0 me-5">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Beranda</a>
+              <a class="nav-link active" aria-current="page" href="{{url('/')}}">Beranda</a>
             </li>
         
 
@@ -19,7 +19,7 @@
                   Pilih Game
                 </button>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Mobile Legends</a></li>
+                  <li><a class="dropdown-item" href="{{url('order/mobile-legeds-diamond')}}">Mobile Legends</a></li>
                   <li><a class="dropdown-item" href="#">Free Fire</a></li>
                   <li><a class="dropdown-item" href="#">PUBG</a></li>
                   <li><a class="dropdown-item" href="#">Arena Of Valor</a></li>
@@ -36,7 +36,7 @@
               <a class="nav-link" href="#">Tutorial Game</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Kontak</a>
+              <a class="nav-link" href="#">Blog</a>
             </li>
             
           </ul>
