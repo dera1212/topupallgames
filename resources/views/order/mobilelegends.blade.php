@@ -214,7 +214,7 @@
 
     {{-- script js kirim wa --}}
 
-    <script src="{{ asset('js/order.js') }}"></script>
+    <script src="{{ asset('js/order.js?v=1.0') }}"></script>
 
 
   </body>
