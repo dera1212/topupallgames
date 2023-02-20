@@ -43,8 +43,8 @@
           <div class="isi-data">
             <h3>Lengkapi Data</h3>
             <div class="input-group mb-3">
-              <input type="text" class="form-control" placeholder="User ID" aria-label="User" name="userid" id="user">
-              <input type="text" class="form-control" placeholder="Server ID" aria-label="Server" name="serverid" id="server">
+              <input type="number" class="form-control" placeholder="User ID" aria-label="User" name="userid" id="user">
+              <input type="number" class="form-control" placeholder="Server ID" aria-label="Server" name="serverid" id="server">
             </div>
           </div>
 
@@ -191,7 +191,7 @@
           <div class="tulis-wa">
             <h3>Masukkan Nomor Whatsapp</h3>
             <div class="input-group mb-3">
-              <input type="text"  class="form-control" placeholder="Nomor Whatsapp" aria-label="Wa" name="whatsapp" id="nomorwa">
+              <input type="tel"  class="form-control" placeholder="Nomor Whatsapp" aria-label="Wa" name="whatsapp" id="nomorwa">
             </div>
             <a type="submit" name="submit" id="kirim_ke_wa" class="btn btn-primary" onclick="kirimWa()">Pesan Sekarang</a>
           </div>
