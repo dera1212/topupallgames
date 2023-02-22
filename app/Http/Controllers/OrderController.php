@@ -15,4 +15,9 @@ class OrderController extends Controller
     {
         return view("order.mobilelegends");
     }
+
+    public function freefire()
+    {
+        return view("order.freefire");
+    }
 }

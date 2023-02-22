@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mobile Legends</title>
+    <title>Mobile Legends Diamond</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 
@@ -22,7 +22,7 @@
 
     <div class="container-order">
         <div class="order-col1">
-            <img src="{{ asset('img/ML.jpg') }}" alt="">
+            <img src="{{ asset('img/ML.jpg') }}" alt="diamond ml">
             <h1>Top Up Diamond Mobile Legends Bang - Bang</h1>
             <h3>Proses Top Up Instan</h3>
             <p>Informasi top up diamond mobile legends termurah hanya di sini! Proses instan, cepat dan tidak ribet! Pembayaran mudah dan paling murah di antara lainnya!</p>
@@ -31,7 +31,7 @@
                 <li>Pilih Paket Diamond</li>
                 <li>Pilih Metode Pembayaran</li>
                 <li>Tulis Nomor Whatsapp Aktiv</li>
-                <li>Klik Beli & Bayar</li>
+                <li>Klik Pesan Sekarang</li>
                 <li>Diamond Akan Masuk Otomatis</li>
             </ol>
         </div>
