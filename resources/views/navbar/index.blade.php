@@ -20,7 +20,7 @@
                 </button>
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="{{url('order/mobile-legeds-diamond')}}">Mobile Legends</a></li>
-                  <li><a class="dropdown-item" href="#">Free Fire</a></li>
+                  <li><a class="dropdown-item" href="{{url('order/free-fire-diamond')}}">Free Fire</a></li>
                   <li><a class="dropdown-item" href="#">PUBG</a></li>
                   <li><a class="dropdown-item" href="#">Arena Of Valor</a></li>
                   <li><a class="dropdown-item" href="#">Ragnarok Mobile Eternal Love</a></li>

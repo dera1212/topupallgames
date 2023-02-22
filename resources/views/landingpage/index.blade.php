@@ -72,7 +72,7 @@
             <h4 class="h4-gaya">Mobile Legends</h4></a>
           </div>
 
-          <div class="col-gaya"><a href="#">
+          <div class="col-gaya"><a href="{{url('order/free-fire-diamond')}}">
             <img src="{{ asset('img/ff.jpeg') }}" alt="">
             <h4 class="h4-gaya">Free Fire</h4></a>
           </div>
