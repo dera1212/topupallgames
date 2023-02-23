@@ -20,4 +20,9 @@ class OrderController extends Controller
     {
         return view("order.freefire");
     }
+
+    public function pubg()
+    {
+        return view("order.pubg");
+    }
 }

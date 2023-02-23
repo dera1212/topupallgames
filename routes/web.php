@@ -29,3 +29,5 @@ Route::get('/order', [OrderController::class, 'index']);
 Route::get('/order/mobile-legeds-diamond', [OrderController::class, 'mobilelegends']);
 
 Route::get('/order/free-fire-diamond', [OrderController::class, 'freefire']);
+
+Route::get('/order/pubg-uc', [OrderController::class, 'pubg']);
