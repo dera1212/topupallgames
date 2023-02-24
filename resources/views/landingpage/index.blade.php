@@ -87,32 +87,32 @@
             <h4 class="h4-gaya">AOV</h4></a>
           </div>
 
-          <div class="col-gaya"><a href="#">
+          <div class="col-gaya"><a href="{{url('order/ragnarok-eternal-love-big-cat-coin')}}">
             <img src="{{ asset('img/ragnarok.jpg') }}" alt="">
             <h4 class="h4-gaya">Ragnarok M.E.L</h4></a>
           </div>
 
-          <div class="col-gaya"><a href="#">
+          <div class="col-gaya"><a href="{{url('order/call-of-duty-mobile-cp')}}">
             <img src="{{ asset('img/callofduty.jpg') }}" alt="">
             <h4 class="h4-gaya">Call Of Duty</h4></a>
           </div>
 
-          <div class="col-gaya"><a href="#">
+          <div class="col-gaya"><a href="{{url('order/steam-wallet-idr')}}">
             <img src="{{ asset('img/steam.jpg') }}" alt="">
             <h4 class="h4-gaya">Steam IDR</h4></a>
           </div>
 
-          <div class="col-gaya"><a href="#">
+          <div class="col-gaya"><a href="{{url('order/megaxus-mi-cash')}}">
             <img src="{{ asset('img/megaxus.jpg') }}" alt="">
             <h4 class="h4-gaya">Megaxus</h4></a>
           </div>
 
-          <div class="col-gaya"><a href="#">
+          <div class="col-gaya"><a href="{{url('order/point-blank-zepetto')}}">
             <img src="{{ asset('img/pointblank.jpg') }}" alt="">
             <h4 class="h4-gaya">Point Blank</h4></a>
           </div>
 
-          <div class="col-gaya"><a href="#">
+          <div class="col-gaya"><a href="{{url('order/hago-diamond')}}">
             <img src="{{ asset('img/hago.jpg') }}" alt="">
             <h4 class="h4-gaya">Hago</h4></a>
           </div>

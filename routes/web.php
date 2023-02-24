@@ -33,3 +33,15 @@ Route::get('/order/free-fire-diamond', [OrderController::class, 'freefire']);
 Route::get('/order/pubg-uc', [OrderController::class, 'pubg']);
 
 Route::get('/order/aov-voucher', [OrderController::class, 'aov']);
+
+Route::get('/order/ragnarok-eternal-love-big-cat-coin', [OrderController::class, 'ragnarok']);
+
+Route::get('/order/call-of-duty-mobile-cp', [OrderController::class, 'cod']);
+
+Route::get('/order/steam-wallet-idr', [OrderController::class, 'steam']);
+
+Route::get('/order/megaxus-mi-cash', [OrderController::class, 'megaxus']);
+
+Route::get('/order/point-blank-zepetto', [OrderController::class, 'pb']);
+
+Route::get('/order/hago-diamond', [OrderController::class, 'hago']);

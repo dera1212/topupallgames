@@ -23,12 +23,12 @@
                   <li><a class="dropdown-item" href="{{url('order/free-fire-diamond')}}">Free Fire</a></li>
                   <li><a class="dropdown-item" href="{{url('order/pubg-uc')}}">PUBG</a></li>
                   <li><a class="dropdown-item" href="{{url('order/aov-voucher')}}">Arena Of Valor</a></li>
-                  <li><a class="dropdown-item" href="#">Ragnarok Mobile Eternal Love</a></li>
-                  <li><a class="dropdown-item" href="#">Call Of Duty Mobile</a></li>
-                  <li><a class="dropdown-item" href="#">Steam Wallet IDR</a></li>
-                  <li><a class="dropdown-item" href="#">Megaxus MI-Cash</a></li>
-                  <li><a class="dropdown-item" href="#">Point Blank Zepetto</a></li>
-                  <li><a class="dropdown-item" href="#">Hago Diamond</a></li>
+                  <li><a class="dropdown-item" href="{{url('order/ragnarok-eternal-love-big-cat-coin')}}">Ragnarok Mobile Eternal Love</a></li>
+                  <li><a class="dropdown-item" href="{{url('order/call-of-duty-mobile-cp')}}">Call Of Duty Mobile</a></li>
+                  <li><a class="dropdown-item" href="{{url('order/steam-wallet-idr')}}">Steam Wallet IDR</a></li>
+                  <li><a class="dropdown-item" href="{{url('order/megaxus-mi-cash')}}">Megaxus MI-Cash</a></li>
+                  <li><a class="dropdown-item" href="{{url('order/point-blank-zepetto')}}">Point Blank Zepetto</a></li>
+                  <li><a class="dropdown-item" href="{{url('order/hago-diamond')}}">Hago Diamond</a></li>
                 </ul>
               </div>
 
