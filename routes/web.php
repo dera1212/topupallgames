@@ -31,3 +31,5 @@ Route::get('/order/mobile-legeds-diamond', [OrderController::class, 'mobilelegen
 Route::get('/order/free-fire-diamond', [OrderController::class, 'freefire']);
 
 Route::get('/order/pubg-uc', [OrderController::class, 'pubg']);
+
+Route::get('/order/aov-voucher', [OrderController::class, 'aov']);

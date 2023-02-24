@@ -82,7 +82,7 @@
             <h4 class="h4-gaya">PUBG Mobile</h4></a>
           </div>
 
-          <div class="col-gaya"><a href="#">
+          <div class="col-gaya"><a href="{{url('order/aov-voucher')}}">
             <img src="{{ asset('img/aov.jpg') }}" alt="">
             <h4 class="h4-gaya">AOV</h4></a>
           </div>

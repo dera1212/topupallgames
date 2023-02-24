@@ -25,4 +25,9 @@ class OrderController extends Controller
     {
         return view("order.pubg");
     }
+
+    public function aov()
+    {
+        return view("order.aov");
+    }
 }
