@@ -13,7 +13,7 @@ function kirimWa(){
    
          /* Whatsapp Settings */
          var walink = 'https://api.whatsapp.com/send',
-             phone = '6281313213380',
+             phone = '6281938347315',
              walink2 = 'Halo saya ingin Order';
 
          /* Smartphone Support */
